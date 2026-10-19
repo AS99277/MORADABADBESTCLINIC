@@ -1,0 +1,4 @@
+- Project name: dental-clinic-moradabad
+- Node engine: "24.x"
+- Main entry: "index.js"
+- Include necessary dependencies: express, mongoose, cors, dotenv, jsonwebtoken, bcryptjs, qrcode.
