@@ -1,0 +1,4 @@
+- Configure Vercel to route all traffic appropriately.
+- Route `/admin(.*)` to `admin.js` and all other routes `/(.*)` to `index.js`.
+- Use the `@vercel/node` builder.
+- Ensure proper handling of API routes and static HTML rendering.
